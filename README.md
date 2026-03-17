@@ -23,7 +23,7 @@ Este proyecto fue estructurado bajo un stack profesional diseñado para ofrecer 
 
 ---
 
-## 💻 Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - **Framework Gráfico:** PySide6 (`Qt for Python`)
 - **Renderizado de Charts:** PyQtGraph
@@ -94,4 +94,4 @@ python build.py
 - [ ] Plugin opcional: Transmisor Flask (para ver consumos en un teléfono en la misma red Wi-Fi).
 
 ---
-<p align="center">Hecho por JoaqMuñoz. <br> <i>Las ideas viajan con la fluidez del C++ </i>🚀</p>
+<p align="center">Hecho por JoaqMuñoz. <br> <i>Las ideas viajan con la fluidez del C++ </i></p>
