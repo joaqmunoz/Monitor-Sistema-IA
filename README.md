@@ -85,7 +85,7 @@ python build.py
 
 ---
 
-## 🛠 ROADMAP (Funcionalidades en desarrollo)
+##  ROADMAP (Funcionalidades en desarrollo)
 
 - [x] Motor Multi-Hilo con WMI y Base de Datos Asíncrona  
 - [x] Dashboard Moderno Estilo "Claymorphism"  
@@ -94,4 +94,4 @@ python build.py
 - [ ] Plugin opcional: Transmisor Flask (para ver consumos en un teléfono en la misma red Wi-Fi).
 
 ---
-<p align="center">Hecho por JoaqMuñoz. <br> <i>Las ideas viajan con la fluidez del C++ </i></p>
+<p align="center">Hecho por JoaqMuñoz. <br> </p>
