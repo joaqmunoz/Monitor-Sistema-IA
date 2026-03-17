@@ -1,0 +1,15 @@
+# Entornos Mágicos / Build
+.venv/
+__pycache__/
+build/
+dist/
+*.spec
+
+# Base de datos local y Logs (No subir historico personal a Github)
+*.db
+*.log
+*.sqlite3
+
+# Archivos de SO
+.DS_Store
+Thumbs.db
