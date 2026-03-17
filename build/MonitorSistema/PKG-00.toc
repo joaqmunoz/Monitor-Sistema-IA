@@ -1,0 +1,79 @@
+('D:\\Proyectos\\optimizador con '
+ 'ia\\monitor-sistema\\build\\MonitorSistema\\MonitorSistema.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'D:\\Proyectos\\optimizador con '
+   'ia\\monitor-sistema\\build\\MonitorSistema\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\Proyectos\\optimizador con '
+   'ia\\monitor-sistema\\build\\MonitorSistema\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\Proyectos\\optimizador con '
+   'ia\\monitor-sistema\\build\\MonitorSistema\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\Proyectos\\optimizador con '
+   'ia\\monitor-sistema\\build\\MonitorSistema\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\Proyectos\\optimizador con '
+   'ia\\monitor-sistema\\build\\MonitorSistema\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\Proyectos\\optimizador con '
+   'ia\\monitor-sistema\\build\\MonitorSistema\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'D:\\Proyectos\\optimizador con '
+   'ia\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'D:\\Proyectos\\optimizador con '
+   'ia\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'D:\\Proyectos\\optimizador con '
+   'ia\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'D:\\Proyectos\\optimizador con '
+   'ia\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pywintypes',
+   'D:\\Proyectos\\optimizador con '
+   'ia\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_pywintypes.py',
+   'PYSOURCE'),
+  ('pyi_rth_pythoncom',
+   'D:\\Proyectos\\optimizador con '
+   'ia\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_pythoncom.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqtgraph_multiprocess',
+   'D:\\Proyectos\\optimizador con '
+   'ia\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_pyqtgraph_multiprocess.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyside6',
+   'D:\\Proyectos\\optimizador con '
+   'ia\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyside6.py',
+   'PYSOURCE'),
+  ('main',
+   'D:\\Proyectos\\optimizador con ia\\monitor-sistema\\src\\main.py',
+   'PYSOURCE')],
+ 'python314.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

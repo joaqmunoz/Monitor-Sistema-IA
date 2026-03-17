@@ -1,0 +1,9 @@
+psutil>=5.9.0
+wmi>=1.5.1
+PySide6>=6.6.0
+pyqtgraph>=0.13.3
+keyboard>=0.13.5
+pyinstaller>=6.3.0
+pandas>=2.1.0
+reportlab>=4.0.0
+win10toast>=0.9
