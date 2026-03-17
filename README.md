@@ -10,16 +10,16 @@
 
 ---
 
-## ✨ Características Principales
+##  Características Principales
 
 Este proyecto fue estructurado bajo un stack profesional diseñado para ofrecer monitoreo **offline, privado y veloz** a un nivel competitivo con aplicaciones integradas de Windows 11.
 
-- 💎 **Diseño Claymorphism / Glassmorphism:** Interfaz ultra-moderna (QSS personalizado), tarjetas flotantes y sombras elegantes a 60 FPS aceleradas por hardware.
-- 🚀 **Rendimiento <3% de CPU:** A diferencia de apps basadas en Electron o WebViews (como Flet/Tauri), está programado con `QThreads` asíncronos y OpenGL nativo, consumiendo menos de 100 MB RAM y evitando el *freeze* de la UI.
-- 🗄️ **Motor de Base de Datos (SQLite WAL):** Sistema de guardado y *Batch Inserts* en ráfaga para mantener el histórico de tu consumo por días, preservando la vida útil operativa del cristal SSD.
-- 🎮 **Game Overlay Inyectado:** Contiene una ventana global inteligente transparente (`Ctrl+Shift+M`) que flota sobre tus juegos de pantalla completa (DirectX/Vulkan) informando temperaturas sin robar el mouse ni lag.
-- 🤖 **Sistema Inteligente Offline:** Módulo de alerta (ej. *Matar tareas si CPU > 95%*) y Sistema Experto que analiza las métricas de tu semana reportando tips para agilizar tu Windows sin enviar datos a la nube.
-- 📊 **Exportación Avanzada:** Exporta tablas completas de datos hacia .CSV, tableros dinámicos en HTML y completos reportes ejecutivos en .PDF.
+-  **Diseño Claymorphism / Glassmorphism:** Interfaz ultra-moderna (QSS personalizado), tarjetas flotantes y sombras elegantes a 60 FPS aceleradas por hardware.
+-  **Rendimiento <3% de CPU:** A diferencia de apps basadas en Electron o WebViews (como Flet/Tauri), está programado con `QThreads` asíncronos y OpenGL nativo, consumiendo menos de 100 MB RAM y evitando el *freeze* de la UI.
+-  **Motor de Base de Datos (SQLite WAL):** Sistema de guardado y *Batch Inserts* en ráfaga para mantener el histórico de tu consumo por días, preservando la vida útil operativa del cristal SSD.
+-  **Game Overlay Inyectado:** Contiene una ventana global inteligente transparente (`Ctrl+Shift+M`) que flota sobre tus juegos de pantalla completa (DirectX/Vulkan) informando temperaturas sin robar el mouse ni lag.
+-  **Sistema Inteligente Offline:** Módulo de alerta (ej. *Matar tareas si CPU > 95%*) y Sistema Experto que analiza las métricas de tu semana reportando tips para agilizar tu Windows sin enviar datos a la nube.
+-  **Exportación Avanzada:** Exporta tablas completas de datos hacia .CSV, tableros dinámicos en HTML y completos reportes ejecutivos en .PDF.
 
 ---
 
@@ -34,7 +34,7 @@ Este proyecto fue estructurado bajo un stack profesional diseñado para ofrecer 
 
 ---
 
-## 🚀 Cómo Empezar (Modo Desarrollador)
+##  Cómo Empezar (Modo Desarrollador)
 
 Para ejecutar el monitor tú mismo desde el código fuente o realizar modificaciones:
 
@@ -66,7 +66,7 @@ python src/main.py
 
 ---
 
-## 📦 Compilación y Distribución (Modo Producción)
+##  Compilación y Distribución (Modo Producción)
 
 Si quieres entregar la aplicación como un solo instalador sin requerir instalar Python nunca más:
 
